@@ -1,0 +1,14 @@
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (123, '1', '20:30', 'ABSOLUTA', '1556983519888');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (123,'2', '19:30', 'CADETE', '1554034667447');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (123,'4', '20:00', 'ALEVIN', '1469632910468');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (123,'5', '20:10', 'BENJAMIN', '1469543353125');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (123,'6', '20:20', 'PREBENJAMIN', '');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (123,'3', '19:45', 'INFANTIL', '1554034198942');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (120,'120', '09:00', 'UNICA', '');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (124,'124', '11:00', 'ABSOLUTA', '1556983519888');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (125,'125', '10:00', 'UNICA', '');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (,'126', '10:30', 'UNICA', '');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES (,'127', '10:30', 'UNICA', '');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES ('128', '10:00', 'UNICA', '');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES ('129', '10:30', 'UNICA', '');
+INSERT INTO "main"."carreras" ("idCarrera", "hora", "categoria", "inicio") VALUES ('130', '11:00', 'UNICA', '');
